@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StefanZdjelarevic
-- 👀 I’m interested in ethical hacking
+- 👀 I’m interested in game develpment ethical hacking
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
